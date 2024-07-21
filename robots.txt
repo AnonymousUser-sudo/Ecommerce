@@ -1,0 +1,3 @@
+User-agent: *
+allow: /login.html
+allow: /user/s3cr3t/flag
